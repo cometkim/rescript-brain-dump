@@ -1,0 +1,3 @@
+- Performance regression
+- Lowering
+  - Required not only for supporting old browsers, but also for using modern syntax safely

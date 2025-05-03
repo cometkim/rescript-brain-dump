@@ -1,0 +1,4 @@
+- OCaml native build system (with Eio!)
+- It should also be a package manger
+  - It should be better than NPM/Yarn/Pnpm. Quality of Esy
+- Because it is a linker essentially

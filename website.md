@@ -1,0 +1,6 @@
+- [ ] Move to Cloudflare
+- [ ] Make it fully static
+  - Maybe drop Next.js and migrate to something lighter
+  - Use Cloudflare Workers as needed
+- [ ] Playground build to Cloudflare R2
+- [ ] Remote MCP for docs
